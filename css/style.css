@@ -91,3 +91,13 @@ header {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+.wrapper{
+  display: flex;
+}
+.block{
+  width: 200px;
+  height: 60px;
+  margin-right: 10px;
+  background-color: red;
+
+}

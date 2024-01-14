@@ -1,0 +1,19 @@
+@media(max-width:768px){
+    .wrapper{
+        background-color:green;
+    }
+    .block{
+        width:400px;
+        background-color: yellowgreen;
+    }
+}
+
+@media(max-width:470px){
+    .wrapper{
+        background-color:pink;
+    }
+    .block{
+        width:400px;
+        background-color:purple;
+    }
+}
